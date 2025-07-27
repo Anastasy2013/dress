@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(199, 170, 226);
+}
+h1{
+    font-family:segoe print ;
+    text-align: center;
+}
+ p{
+    font-family: segoe script;
+    font-size: 22px;
+    text-align: center;
+}
+h2{
+    font-family:map symbols;
+    text-align: center;
+}
+h3{
+    font-family:matura mt script capitals;
+    text-align: center;
+    font-size: 30px;
+}
+footer p{
+    font-family: ms sans serif;
+    color: blueviolet;
+}
+
