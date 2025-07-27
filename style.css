@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(198, 143, 226);
+}
+h1{
+  font-family: fantasy;
+  color: rgb(41, 6, 73);
+  text-align: center;
+  background-color: rgb(154, 69, 235);
+}
+.logo{
+width: 50px;
+height: 100px;
+}
+nav{
+    text-align: center;
+    background-color: rgb(134, 125, 190);
+    font-size: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+a{
+    padding: 18px;
+    margin: 15px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+    background-color: indianred;
+}
+.ert{
+  float: right;
+  margin: 25px;
+}
+main{
+    color: indigo;
+    font-size: 30px;
+    font-family: cursive;
+    }
+.dfg{
+    float: left;
+  margin: 25px;
+}
+
+
+
