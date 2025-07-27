@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Магазин суконь "Чарівниця" </title>
+        <link rel="stylesheet" href="design.css">
+    </head>
+    <body>
+        <header>
+            <h1>Тканини і матеріали </h1>
+            <p> мені здається, кожен покупець повинен знати, з якого саме матеріалу виготовляється сукня яку вони замовляють, тому на цій сторінці буде інформація саме про це</p>
+            <h2> Матеріали з яких виготовляються сукні за бажаням наших клієнтів</h2>
+           
+        </header>
+        <main>
+         <p> ШОВК,     ХЛОПОК,    ВОВНА,    ПОЛІЕСТР,     ЛЬОН</p>
+         <h3>Приклади робіт </h3>
+         <img src="https://www.lunss.com/uploads/article/2022/01/black-lace-off-the-shoulder-ball-gown-satin-dress-thumb.jpg">
+         <img src="https://www.lunss.com/uploads/article/2021/12/yellow-glitter-mermaid-with-overskirt-prom-dress-sketch-thumb.jpg">
+         <img src="https://www.lunss.com/uploads/article/2021/12/black-sequin-feather-burgundy-prom-dress-sketch-thumb.jpg">
+         <img src="https://www.lunss.com/uploads/article/2021/11/oversized-rose-bodice-green-ball-gown-sketch-thumb.jpg">
+         <img src="https://www.lunss.com/uploads/article/2021/11/floral-lace-cascading-ruffled-pink-bridal-gown-sketch-thumb.jpg">
+        </main>
+        <footer>
+            <p> Наш інтернет магазин https://magazin sykon.com.ua/</p>
+        </footer>
+    </body>
+</html>
